@@ -1,0 +1,31 @@
+.pageHeader {
+    font-size: large; 
+    text-align: center;
+    font-weight: bold;
+}
+.details {
+    font-size: large;
+
+}
+
+.committees {
+    font-size: large;
+
+}
+
+.ignorant {
+    font-size: large;
+
+}
+
+.voting {
+    font-weight: bolder;
+}
+
+.rep {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid green;
+    text-align: center
+}
